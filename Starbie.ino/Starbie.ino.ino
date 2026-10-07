@@ -458,6 +458,25 @@ void drawSparkle(int x, int y) {
   display.drawPixel(x, y + 2, SSD1306_WHITE);
 }
 
+void drawStar (int x, int y) {
+  display.fillCircle(x, y, 4, SSD1306_WHITE);
+
+  for (int i = 0; i < 5; i++) {
+    float a = -PI / 2 + i * 2 * PI / 5;
+    float al = a - PI / 5;
+    float ar = a + PI /5;
+
+    int tx = x + round(8 * cos(a));
+    int ty = y + round(8 * sin(a));
+    int lx = x + round(4 * sin(al));
+    int rx = x + round(4 * cos(ar));
+    int ry = y + round(4 * sin(ar));
+
+    display.fillTriangle(tx, ty, lx, ly, rx, ry, SSD1306_WHITE);
+    display.fillCircle(tx, ty, 2, SSD1306_WHITE);
+  }
+}
+
 void drawHeart(int x, int y) {
   // A tiny seven-pixel-wide heart that stays crisp on the OLED.
   display.fillRect(x - 2, y, 2, 2, SSD1306_WHITE);
@@ -525,13 +544,13 @@ void drawPet() {
                      SSD1306_WHITE);
 
   if (!isNapping() && (now / 250) % 2 == 0) {
-    drawSparkle(petX - 4, petY + 18);
+    drawStar(petX - 4, petY + 18);
   }
 
   if (isNapping()) {
     drawSleepZs(now, petX, petY);
   }
-  drawHearts(now, petX, petY);
+  drawHearts(now, petX, petY); ]
 }
 
 void drawMenuItem(int item) {
