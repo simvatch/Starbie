@@ -4,7 +4,7 @@ This is a Starbie project that I made following the Starbie toturial. I customis
 
 ## PCB Design and Layout
 
-![alt text](image.png). 
+![alt text](image-2.png). 
 
 I made it chicken shaped and added patterns to it to customise it.
 
