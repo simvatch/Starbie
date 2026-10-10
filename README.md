@@ -4,12 +4,14 @@ This is a Starbie project that I made following the Starbie toturial. I customis
 
 ## PCB Design and Layout
 
-My pcb board design and layout: ![alt text](image.png). 
+![alt text](image.png). 
+
 I made it chicken shaped and added patterns to it to customise it.
 
 ## Schematics
 
-My schematics: ![alt text](image-1.png). 
+![alt text](image-1.png). 
+
 Created following the Starbie tutorial.
 
 ## Firmware
