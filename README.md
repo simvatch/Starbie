@@ -18,7 +18,7 @@ Created following the Starbie tutorial.
 
 For the firmware I added a custom bitmap that has the beak and eyes for my chicken. I also renamed the menu items to my own ones.
 
-# BOM
+## BOM
 
 - Male and Female Headers	
 - Pushbuttons	
