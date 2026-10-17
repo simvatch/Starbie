@@ -17,3 +17,12 @@ Created following the Starbie tutorial.
 ## Firmware
 
 For the firmware I added a custom bitmap that has the beak and eyes for my chicken. I also renamed the menu items to my own ones.
+
+# BOM
+
+- Male and Female Headers	
+- Pushbuttons	
+- DHT11	
+- MPU6050	
+- XIAO ESP32-C3	
+- 0.96 Inch OLED Display Module	
