@@ -2,6 +2,8 @@
 
 This is a Starbie project that I made following the Starbie toturial. I customised it by making the PCB chicken shaped and adding different designs features to it. I also edited and added my own bitmap art.
 
+I made this project because I have always wanted to learn more about making hardware and I thought embarking upon Half-Life would be a good idea. I have really enjoyed learning how to design a PCB. I especially enjoyed the wiring part of designing it.
+
 ## PCB Design and Layout
 
 ![alt text](image-2.png). 
