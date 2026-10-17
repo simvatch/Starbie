@@ -4,6 +4,8 @@ This is a Starbie project that I made following the Starbie toturial. I customis
 
 I made this project because I have always wanted to learn more about making hardware and I thought embarking upon Half-Life would be a good idea. I have really enjoyed learning how to design a PCB. I especially enjoyed the wiring part of designing it.
 
+It's a tiny digital chicken which you control by moving the whole board around. The OLED shows the chicken to be wandering back and forth. Press button one and a menu pops up with four options: SLEEP, SPORT, HAPPY and FED. Button two shows the stats along with the temperature and humidity from the DHT11.
+
 ## PCB Design and Layout
 
 ![alt text](image-2.png). 
