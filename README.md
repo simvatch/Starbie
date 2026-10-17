@@ -10,6 +10,11 @@ I made this project because I have always wanted to learn more about making hard
 
 I made it chicken shaped and added patterns to it to customise it.
 
+3D image:
+
+![alt text](image-3.png)
+![alt text](image-4.png)
+
 ## Schematics
 
 ![alt text](image-1.png). 
