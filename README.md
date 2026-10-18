@@ -29,9 +29,4 @@ For the firmware I added a custom bitmap that has the beak and eyes for my chick
 
 ## BOM
 
-- Male and Female Headers	
-- Pushbuttons	
-- DHT11	
-- MPU6050	
-- XIAO ESP32-C3	
-- 0.96 Inch OLED Display Module	
+<img width="925" height="630" alt="image" src="https://github.com/user-attachments/assets/8cdc3047-13f7-4255-9a89-60ce40538151" />
