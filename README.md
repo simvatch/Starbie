@@ -29,4 +29,10 @@ For the firmware I added a custom bitmap that has the beak and eyes for my chick
 
 ## BOM
 
-<img width="925" height="630" alt="image" src="https://github.com/user-attachments/assets/8cdc3047-13f7-4255-9a89-60ce40538151" />
+- Male and Female Headers $1.32
+- Pushbuttons $2.07
+- DHT11 $1.32
+- MPU6050 $4.65
+- XIAO ESP-32-C3 $8.22
+- 0.96 Inch OLED Display Module $1.32
+- PCB Cutout $5.30
